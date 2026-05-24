@@ -37,6 +37,6 @@ Detailed implementation of Transformer architecture for sequential data, develop
 
 ## 📫 Let's Work Together
 I am available for freelance AI development and custom software solutions.
-- 💼 **LinkedIn:** [Your Name](#)
-- 📧 **Email:** [Your Email]
-- 📺 **YouTube:** [Your Channel Name](#)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mohammed-el-fadhel-benali-ba57703b8/](#)
+- 📧 **Email:** [com.benali@gmail.com]
+- 📺 **YouTube:** [youtube](#)
