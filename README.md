@@ -48,4 +48,4 @@ An advanced project implemented during my Master's program, focusing on training
 ## 🤝 Let's Connect
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/mohammed-el-fadhel-benali-ba57703b8/]
 * 📺 **YouTube:** [com.benali@gmail.com]
-* 📧 **Email:** `your.email@example.com`
+* 📧 **Email:** `[(https://www.youtube.com/@BENALI-DZ)]`
