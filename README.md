@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm [BEN ALI DZ] 👋 
 
 ### 🎓 Master’s in Artificial Intelligence & Data Science
 **Bridging the gap between Deep Learning research and Commercial Desktop Software.**
