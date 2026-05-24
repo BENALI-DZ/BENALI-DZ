@@ -1,18 +1,14 @@
 # Hi there, I'm BENALI-DZ 👋 
 ### AI Engineer & Expert Desktop Applications Developer (Python/PySide6)
 
-I am a Master's Candidate in **Artificial Intelligence & Data Science**, specialized in building high-performance AI models and transforming them into secure, commercial-grade desktop software.
-
+I am a Master's  in **Artificial Intelligence & Data Science**, specialized in building high-performance AI models and transforming them into secure, commercial-grade desktop software.
 ---
-
 ## 🛠️ Expertise & Tech Stack
 - **Artificial Intelligence:** Transformers, Self-Attention, Time-Series Forecasting (PyTorch/TensorFlow).
 - **Desktop Software:** Advanced UI/UX with PySide6 & PyQt5, packaging with PyInstaller.
 - **Data Engineering:** Big Data Archiving, Database Encryption (SQLCipher), NumPy, Pandas.
 - **Languages:** Python (Expert), C, Kotlin, Jupyter Notebooks.
-
 ---
-
 ## 🚀 Top Professional Projects
 
 ### 📊 AI Demand & Sales Forecasting System
