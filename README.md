@@ -1,25 +1,25 @@
 # Hi there, I'm [BEN ALI DZ] 👋 
 
 ### 🎓 Master’s in Artificial Intelligence & Data Science
-**Bridging the gap between Deep Learning research and Commercial Desktop Software.**
+**Bridging the gap between Deep Learning research, Enterprise ERP Systems, and Commercial Software.**
 
-I specialize in building high-performance AI models—specifically **Transformers** for time-series forecasting—and transforming them into secure, production-ready desktop applications using **Python & PySide6**.
+I specialize in building high-performance AI models—specifically **Transformers** for time-series forecasting—alongside developing robust **Odoo Enterprise solutions** and secure desktop applications using **Python, PySide6, and Odoo**.
 
 ---
 
 ## 🚀 What I Do
-- **AI Engineering:** Designing & training Transformer architectures from scratch for complex prediction tasks.
-- **Secure Development:** Implementing encrypted local databases (SQLCipher) for enterprise-grade data privacy.
-- **Software Architecture:** Crafting intuitive, touch-compatible GUI applications that run natively on desktop.
-- **Knowledge Sharing:** Teaching advanced AI concepts in English on YouTube to help developers and businesses scale.
+- **AI & Data Engineering:** Designing & training Transformer architectures and time-series forecasting models from scratch.
+- **Enterprise & ERP Solutions:** Developing custom Odoo modules, workflow automations, and seamless business integrations.
+- **Secure Software Architecture:** Crafting intuitive desktop GUI applications (PySide6/PyQt5) with encrypted local databases (SQLCipher) for enterprise-grade privacy.
+- **Knowledge Sharing:** Teaching advanced AI and development concepts to help developers and businesses scale.
 
 ---
 
 ## 🛠️ Tech Stack
 - **AI/ML:** PyTorch, TensorFlow, Transformers, Self-Attention Mechanisms.
-- **Software:** PySide6, PyQt5, SQLCipher, SQLite.
-- **Data:** Big Data Archiving, NumPy, Pandas, Joblib.
-- **Tools:** Git, GitHub, PyInstaller.
+- **ERP & Web:** Odoo (17, 18, 19), Custom Modules, OWL, PostgreSQL.
+- **Software:** PySide6, PyQt5, SQLCipher, SQLite, C#.
+- **Data & Tools:** Big Data Archiving, NumPy, Pandas, Git, GitHub, PyInstaller.
 
 ---
 
@@ -27,13 +27,13 @@ I specialize in building high-performance AI models—specifically **Transformer
 
 ### 📊 1. AI-Powered Demand & Price Forecasting System 
 An end-to-end commercial desktop application for e-commerce enterprises to archive sales data and predict inventory demand using **Transformer models**.
-* **Key Features:** SQLCipher encryption, custom PySide6 dashboard, and offline-first capabilities.
-* 📺 *Watch the walkthrough on my YouTube channel (Link below).*
+- **Key Features:** SQLCipher encryption, custom PySide6 dashboard, and offline-first capabilities.
+- 📺 *Watch the walkthrough on my YouTube channel (Link below).*
 
-### 🤖 2. Custom Transformer Implementation
-An advanced project implemented during my Master's program, focusing on training Transformer architectures from scratch.
-* **Focus:** Attention Maps, Data Scaling, and Hyperparameter Optimization.
-* 🔗 [View Repository](رابط_المستودع_هنا)
+### ⚡ 2. Odoo Enterprise Custom Modules & Logistics 
+Production-ready custom Odoo modules focusing on workflow automation, inventory tracking, and specialized enterprise logistics.
+- **Focus:** Python backend logic, custom views, and seamless data management.
+- 🔗 [View Repository](https://github.com/BENALI-DZ)
 
 ---
 
@@ -46,6 +46,6 @@ An advanced project implemented during my Master's program, focusing on training
 ---
 
 ## 🤝 Let's Connect
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/mohammed-el-fadhel-benali-ba57703b8/]
-* 📺 **YouTube:** [com.benali@gmail.com]
-* 📧 **Email:** [https://www.youtube.com/@BENALI-DZ]
+- 💼 **LinkedIn:** [Mohammed El Fadhel Benali](https://www.linkedin.com/in/mohammed-el-fadhel-benali-ba57703b8/)
+- 📺 **YouTube:** [BENALI-DZ Channel](https://www.youtube.com/@BENALI-DZ)
+- 📧 **Email:** com.benali@gmail.com
