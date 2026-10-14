@@ -39,6 +39,8 @@ Production-ready custom Odoo modules focusing on workflow automation, inventory 
 
 ## 📊 My GitHub Performance
 <p align="center">
+  <img width="1545" height="898" alt="odoo emple 2026-10-06 211150" src="https://github.com/user-attachments/assets/5ad32587-e235-4a8d-becb-868dd22e476a" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=BENALI-DZ&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENALI-DZ&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
